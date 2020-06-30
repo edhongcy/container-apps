@@ -116,6 +116,19 @@
         "type": "lxc"
     },
     {
+        "description": "CentOS is an operating system based on the Linux kernel, developed by the community-supported CentOS Project and owned by Red Hat.",
+        "repository": "qnap",
+        "inspect": "{}",
+        "arch": "amd64",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/2.0/images/fedora_icon.png",
+        "displayName": "CentOS",
+        "name": "centos-eight",
+        "version": "8",
+        "kernelVersion": "4.2.8",
+        "location": "http://172.17.48.25/centos-eight_8_20200629_amd64.tar.gz",
+        "type": "lxc"
+    },
+    {
         "description": "Odoo (formerly OpenERP): open source ERP and Apps to grow your business.",
         "repository": "dockerhub",
         "arch": "armhf",
